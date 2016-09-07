@@ -1,5 +1,5 @@
 # Crawler McCrawlerface
-The famous [UnityList.com](http://UnityList.com) crawler
+The famous crawler
 
 # Looking for the source code? 
 There's none, the code is nothing more than few api calls and some black magic.
